@@ -1,0 +1,25 @@
+Job Title: Python Developer
+
+Educational Qualification:
+B.Tech in Computer Science Engineering
+
+Technical Skill Requirements:
+Python 
+GIT 
+AWS
+REST API
+Angular 
+React
+
+Soft Skill Requirements:
+Leadership
+Problem management
+Communication
+Teamwork
+
+BENEFITS:
+- Work on real-world problems
+- Career growth opportunities
+- Flexible working hours
+- Inclusive and collaborative work culture
+- Paid holidays and day-offs

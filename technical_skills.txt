@@ -1,0 +1,15 @@
+python
+flask
+api
+aws
+java
+c++
+sql
+mongodb
+html
+css
+javascript
+react
+angular
+bootstrap
+b.tech in computer science

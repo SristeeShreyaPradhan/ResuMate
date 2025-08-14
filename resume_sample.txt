@@ -1,0 +1,18 @@
+Name: Suhani Shukla
+Email: suhanishukla12@example.com
+
+Technical Skills:
+Python, Machine Learning, Data Analysis, NLP, Flask, SQL, Git, Pandas, Scikit-learn
+
+Soft Skills:
+Problem solving,adaptability,communication,collaboration,time management
+
+
+Experience:
+- Built web applications using Python frameworks like Flask and Django.
+- Built REST APIs with Flask
+- Collaborated with front-end developers to integrate React components with backend services.
+
+
+Education:
+B.Tech in Computer Science Engineering
