@@ -18,7 +18,7 @@ ResuMate is a Python-based tool that analyzes resumes and evaluates their compat
 
 ## 🧠 How It Works
 
-1. **Input:** A resume (PDF or text) and a job description (text)
+1. **Input:** A resume (text) and a job description (text)
    
 2. **Processing:**
    - Extracts and Identifies technical skills and soft skills.
@@ -45,3 +45,6 @@ ResuMate is a Python-based tool that analyzes resumes and evaluates their compat
    ```bash
    git clone https://github.com/your-username/resumate.git
    cd resumate
+2. **Install required libraries**
+    ```bash
+   pip install matplotlib
