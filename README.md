@@ -5,7 +5,7 @@ ResuMate is a Python-based tool that analyzes resumes and evaluates their compat
 
 ---
 
-## 🚀 Features
+## ✅ Features
 
 - 🧾 Resume parsing and text extraction
 - 📄 Job description analysis
@@ -39,7 +39,7 @@ ResuMate is a Python-based tool that analyzes resumes and evaluates their compat
 | File I/O          | Reading resumes, job descriptions, and skills     |
 ---
 
-## 📦 Installation
+## 🚀 Installation
 
 1. **Clone the repository:**
    ```bash
