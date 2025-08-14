@@ -1,4 +1,4 @@
-# ResuMate
+# 💼ResuMate
 
 
 ResuMate is a Python-based tool that analyzes resumes and evaluates their compatibility with job descriptions. Ideal for job seekers, career coaches, and recruiters.
